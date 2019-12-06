@@ -1,11 +1,11 @@
 ---
-ref: ansible
-name : ansible
+ref: ansible29
+name : ansible29
 description : ansible integrations
 keywords:
-  - ansible
+  - ansible29
   - cfg management
   - configuration management
 version : 0.5.9
-author : StackStorm, Inc.
-email : info@stackstorm.com
+author : StackStorm, Inc/ pr
+email : info@stackstorm.com/ pr@solidex.local
